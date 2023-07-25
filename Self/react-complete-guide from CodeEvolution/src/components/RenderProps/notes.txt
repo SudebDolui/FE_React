@@ -1,0 +1,1 @@
+Render props refers to a technique for sharing code between React Components using a prop whose value is a function.

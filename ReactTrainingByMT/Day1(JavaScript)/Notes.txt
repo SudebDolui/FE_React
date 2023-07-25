@@ -1,0 +1,35 @@
+In Node we have REPL
+REPL -> Read, Evaluate, Print, Load
+
+var - 
+Variables declared with var are automatically hoisted to the top of the current scope.
+Declaring more than one variable with the same name with var will not throw error.
+Var is function scoped.
+
+data hoisting.
+
+let, const.
+
+Object - 2 ways
+object literal
+class instance
+
+Object.prototype
+prototypal inheritance / prototypal chain
+
+Native objects - ECMA Script
+Host Objects - Window object BOM DOM
+user-defined object
+
+value
+writable
+enumerable
+configurable
+
+creating objects
+Object literal
+using new
+
+delete obj.property will delete the property
+
+delete obj will not have effect

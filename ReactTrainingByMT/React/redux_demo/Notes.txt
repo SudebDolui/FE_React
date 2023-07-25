@@ -1,0 +1,9 @@
+npm i -save redux react-redux
+
+1.) Create a redux store - To store the state variable that can be shared globally.
+2.) Create the action.
+Can specify a constant set of action.
+3.) Create reducer, reducers are pure function.
+
+Attach/Bind all the reducer to the store.
+Combine all the reducers in one file using combineReducer from redux.

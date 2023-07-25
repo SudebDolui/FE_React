@@ -1,0 +1,611 @@
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html data-page="2"
+        data-canvas="1"
+        data-site="/personal/sudebd_in_mouritech_com"
+        data-list="19:meeting_OGU2MTk0NWItYjQzOS00MjQ3LTk5ODYtNGYwZThhODlkMTZm@thread.v2_wiki"
+        data-tabId="com.microsoft.teamspace.tab.wiki"
+        data-slug="19:meeting_OGU2MTk0NWItYjQzOS00MjQ3LTk5ODYtNGYwZThhODlkMTZm@thread.v2"
+        data-threadId="undefined"<body><h3 class="wiki-mht-note">This page is automatically updated from the Wiki in Microsoft Teams - any changes made here will be overwritten. To edit this page, open it in Microsoft Teams.</h3>
+<h1 id="wiki-mht-page-title-2">REACT Practise by SVVS</h1>
+<h3 id="wiki-mht-section-title-5">Resources:</h3>
+<p id="wiki-mht-section-content-5"><ul>
+	<li><a href="https://reactjs.org/" rel="noreferrer noopener" target="_blank" title="https://reactjs.org/">https://reactjs.org/</a> - Official Webiste</li>
+	<li><a href="https://www.tutorialspoint.com/reactjs/index.htm" rel="noreferrer noopener" target="_blank" title="https://www.tutorialspoint.com/reactjs/index.htm">https://www.tutorialspoint.com/reactjs/index.htm</a> - Tutorial point</li>
+	<li><a href="https://www.w3schools.com/REACT/DEFAULT.ASP" rel="noreferrer noopener" target="_blank" title="https://www.w3schools.com/react/default.asp">https://www.w3schools.com/REACT/DEFAULT.ASP</a> - w3schools</li>
+	<li><a href="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=gcse" rel="noreferrer noopener" target="_blank" title="https://www.geeksforgeeks.org/reactjs-tutorials/?ref=gcse">https://www.geeksforgeeks.org/reactjs-tutorials/?ref=gcse</a> - Geeks for Geeks</li>
+	<li><a href="https://www.javatpoint.com/reactjs-tutorial" rel="noreferrer noopener" target="_blank" title="https://www.javatpoint.com/reactjs-tutorial">https://www.javatpoint.com/reactjs-tutorial</a> - JavaT Point</li>
+</ul>
+
+<div>Videos:</div>
+
+<ul>
+	<li><a href="https://www.youtube.com/watch?v=Dorf8i6lCuk" rel="noreferrer noopener" target="_blank" title="https://www.youtube.com/watch?v=dorf8i6lcuk">https://www.youtube.com/watch?v=Dorf8i6lCuk</a> - Acade mind</li>
+	<li><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt" rel="noreferrer noopener" target="_blank" title="https://www.youtube.com/playlist?list=plu0w_9lii9agx66oznt6iyhcmibumnmdt">https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt</a> - Code With Harry</li>
+	<li><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3" rel="noreferrer noopener" target="_blank" title="https://www.youtube.com/playlist?list=plc3y8-rfhvwgg3vayjghgnmodb54rxok3">https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3</a> - Code Evolution</li>
+</ul>
+
+<div> </div>
+</p>
+<h3 id="wiki-mht-section-title-18">Syllabus:</h3>
+<p id="wiki-mht-section-content-18"><div itemprop="copy-paste-block">
+<p style="margin-bottom:13px;"><span style="font-size:11pt;"><span style="line-height:115%;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:18.0pt;"><span style="line-height:115%;">                                               React Js                            </span></span></b></span></span></span></p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>1. Introduction to ReactJS</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>1.1</b></td>
+			<td width="740"><b>Library vs Framework</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>1.2</b></td>
+			<td width="740"><b>What is React JS</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>1.3</b></td>
+			<td width="740"><b>Why we required React JS</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>2. React Components</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>2.1</b></td>
+			<td width="740"><b>Class Component</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>2.2</b></td>
+			<td width="740"><b>Functional Component</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>2.3</b></td>
+			<td width="740"><b>React Component with JSX</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>3. State and Props</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>3.1</b></td>
+			<td width="740"><b>What is State ?</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>3.2</b></td>
+			<td width="740"><b>What is setState and How setState is going to work</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>3.3</b></td>
+			<td width="740"><b>What is Props</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>3.4</b></td>
+			<td width="740"><b>Usage of state and Props in React Component</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>4. Forms</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>4.1</b></td>
+			<td width="740"><b>Creating Forms</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>4.2</b></td>
+			<td width="740"><b>Handling the Event in React</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>4.3</b></td>
+			<td width="740"><b>Validations</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>5. Axios</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>5.1</b></td>
+			<td width="740"><b>Introduction to get().post() methods</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>5.2</b></td>
+			<td width="740"><b>How to use axios in the React JS</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>5.3</b></td>
+			<td width="740"><b>How to Handle promise</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>5.4</b></td>
+			<td width="740"><b>How to fetch data from server using axios</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>5.5</b></td>
+			<td width="740"><b>How to create table and cards dynamically using map</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>5.6</b></td>
+			<td width="740"><b>Dynamically Rendering Data in the view </b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>6. Conditional Rendering</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>6.1</b></td>
+			<td width="740"><b>If with Logical &amp;&amp; Operator</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>6.2</b></td>
+			<td width="740"><b>If-Else with Conditional Operator</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>6.3</b></td>
+			<td width="740"><b>Preventing Component from Rendering</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>7. Lists and Keys</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>7.1</b></td>
+			<td width="740"><b>Rendering Multiple Components</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>7.2</b></td>
+			<td width="740"><b>Embedding map() in JSX</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>7.3</b></td>
+			<td width="740"><b>Keys Must Only Be Unique Among Siblings</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>8. Life Cycle Methods</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>8.1</b></td>
+			<td width="740"><b>What are the Life Cycle Methods</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>8.2</b></td>
+			<td width="740"><b>Phases of Life Cycle Methods</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>8.3</b></td>
+			<td width="740"><b>Usages and Purpose of Life Cycle Methods</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>9. React Routing</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>9.1</b></td>
+			<td width="740"><b>How to install react-router-dom</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>9.2</b></td>
+			<td width="740"><b>How to use Components from react-router-dom library</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>9.3</b></td>
+			<td width="740"><b>How to implement Routing in React application</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>10. Code-Splitting</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>10.1</b></td>
+			<td width="740"><b>What is import() and How to implement it</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>10.2</b></td>
+			<td width="740"><b>React.lazy</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>10.3</b></td>
+			<td width="740"><b>Error boundaries</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>10.4</b></td>
+			<td width="740"><b>Route-based code splitting</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>11. Components Communication</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>11.1</b></td>
+			<td width="740"><b>How to pass data from Parent Component to Child Component</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>11.2</b></td>
+			<td width="740"><b>How to pass data from  Child Component to Parent Component</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>12. Context API</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>12.1</b></td>
+			<td width="740"><b>When to Use Context</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>12.2</b></td>
+			<td width="740"><b>Before You Use Context</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>12.3</b></td>
+			<td width="740"><b>React.createContext</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>12.4</b></td>
+			<td width="740"><b>Context.Provider</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>12.5</b></td>
+			<td width="740"><b>Context.Consumer</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>13. Higher-Order Components</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>13.1</b></td>
+			<td width="740"><b>What is HOC</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>13.2</b></td>
+			<td width="740"><b>How to immplement Hoc</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>13.3</b></td>
+			<td width="740"><b>How pass dynamic data to HOC Components</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>14. Integration with Different Libararies</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>14.1</b></td>
+			<td width="740"><b>Bootstrap</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>14.2</b></td>
+			<td width="740"><b>Jquery</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>14.3</b></td>
+			<td width="740"><b>Material UI</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>15. Redux with React</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>15.1</b></td>
+			<td width="740"><b>What is Redux and Why we required Redux</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.2</b></td>
+			<td width="740"><b>Redux Flow</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.3</b></td>
+			<td width="740"><b>How to implement Redux in react</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.4</b></td>
+			<td width="740"><b>Redux logger</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.5</b></td>
+			<td width="740"><b>Redux thunk (MiddleWare)</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.6</b></td>
+			<td width="740"><b>Redux Saga</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>15.7</b></td>
+			<td width="740"><b>React+Redux (Client) + Fectching Data From External API</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>16. React Hooks with Examples</span></span></b></span></span></span></p>
+
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<tbody>
+		<tr>
+			<td width="93"><b>16.1</b></td>
+			<td width="740"><b>useState() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.2</b></td>
+			<td width="740"><b>useEffect() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.3</b></td>
+			<td width="740"><b>useRef() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.4</b></td>
+			<td width="740"><b>useContext() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.5</b></td>
+			<td width="740"><b>useReducer() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.6</b></td>
+			<td width="740"><b>useMemo() Hook</b></td>
+		</tr>
+		<tr>
+			<td width="93"><b>16.7</b></td>
+			<td width="740"><b>useCallback() Hook</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span></span></span></b></span></span></span> </p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>17. How to fetch data from server using React Hooks</span></span></b></span></span></span></p>
+
+<p><span style="font-size:11pt;"><span style="line-height:normal;"><span style="font-family:Calibri,sans-serif;"><b><span lang="EN-US" style="font-size:14.0pt;"><span>18. Redux with React Hooks</span></span></b></span></span></span></p>
+</div>
+</p>
+<h3 id="wiki-mht-section-title-3">History:</h3>
+<p id="wiki-mht-section-content-3"><ol>
+	<li>It was created by Jordan walke.</li>
+	<li>It was introduced by Facebook Team.</li>
+	<li>It was released in May 2013.</li>
+	<li>It's initial version was 0.3.0.</li>
+</ol>
+</p>
+<h3 id="wiki-mht-section-title-4">About:</h3>
+<p id="wiki-mht-section-content-4"><ul>
+	<li>It is also known as Fax JS.</li>
+	<li>It is a simple, feature rich, component based JavaScript UI Library.</li>
+	<li>It is used to develop small applications as well as big and complex applications.</li>
+	<li>It's all about building modern, reactive user interfaces for the web.</li>
+	<li>It is declarative, component-focused approach</li>
+</ul>
+</p>
+<h3 id="wiki-mht-section-title-6">Features:</h3>
+<p id="wiki-mht-section-content-6"><div>The salient features of React library are:</div>
+
+<ul>
+	<li>Solid base architecture</li>
+	<li>Extensible architecture</li>
+	<li>Component based library</li>
+	<li>JSX based design architecture</li>
+	<li>Declarative UI library</li>
+	<li>Single page application(SPA)</li>
+	<li>Reusable UI component</li>
+</ul>
+</p>
+<h3 id="wiki-mht-section-title-8">Benefits</h3>
+<p id="wiki-mht-section-content-8"><div>Few benefits of using React library are as follows:</div>
+
+<ul>
+	<li>Easy to learn</li>
+	<li>Easy to adapt in modern as well as legacy application</li>
+	<li>Faster way to code a functionality</li>
+	<li>Availability of large number of ready-made component.</li>
+	<li>Large and active community.</li>
+</ul>
+</p>
+<h3 id="wiki-mht-section-title-7">Applications:</h3>
+<p id="wiki-mht-section-content-7"><div>Few popular websites powered by React library are listed below:</div>
+
+<ul>
+	<li>Facebook, popular social media application.</li>
+	<li>Instagram, popular photo sharing application.</li>
+	<li>Netflix, popular media streaming application.</li>
+	<li>Code Academy, popular online training application.</li>
+	<li>Reddit, popular content sharing application.</li>
+</ul>
+</p>
+<h3 id="wiki-mht-section-title-15">Difference between Angular, Vue and React:</h3>
+<p id="wiki-mht-section-content-15"><ul>
+	<li>Angular:</li>
+</ul>
+
+<div>Complete component based UI framework, packed with features. Uses Typescript. Can be overkill for smaller projects.</div>
+
+<div> </div>
+
+<ul>
+	<li>Vue:</li>
+</ul>
+
+<div>Complete component based UI framework, includes most core features. A bit less popular than React and Angular.</div>
+
+<div> </div>
+
+<ul>
+	<li>React:</li>
+</ul>
+
+<div>Lean and focused component based UI library. Certain features (e.g. routing) are added via community packages.<br />
+ </div>
+</p>
+<h3 id="wiki-mht-section-title-9">Installation of Softwares:</h3>
+<p id="wiki-mht-section-content-9"><div>To learn and create Reactjs application, we need to install the following softwares in our PC</div>
+
+<div> </div>
+
+<ul>
+	<li>NodeJs</li>
+	<li>After Installing Node.Js, we need to verify which version of NodeJs is there in our PC.</li>
+	<li>After verifying the node version using command (node --version) we need to check the npm version also by using the command(node and npm --version) where NPM stands for NodePackageModule.</li>
+	<li>After successful installation of Nodejs and verifying the versions of both node and npm , we need to install react in our PC by following the command(npm install -g create-react-app) or (npx create-react-app (ur application name))</li>
+	<li>After building the application we only need to send all the files except node modules folder.</li>
+	<li>Now after receiving the files we type the command npm i --legacy-peers-deps to download all the node modules file.</li>
+</ul>
+</p>
+<h3 id="wiki-mht-section-title-10">What is NPM?</h3>
+<p id="wiki-mht-section-content-10"><div>NPM stands for Node Package Manager.</div>
+
+<div>NPM is a package manager.</div>
+
+<div>It is an online repository for publishing open-source Node.js Projects.</div>
+
+<div>It is a CLI(Command Line Interface) tool that helps you install those packages and manage their versions and dependencies.</div>
+
+<div> </div>
+</p>
+<h3 id="wiki-mht-section-title-11">What is NPX?</h3>
+<p id="wiki-mht-section-content-11"><div>NPX stands for Node Package Execute.</div>
+
+<div>It comes with npm.</div>
+
+<div>After version 5.2.0 npx was included inside npm by default.</div>
+
+<div>It is a NPM package Runner.</div>
+
+<div class="copy-paste-block" itemprop="copy-paste-block"><span style="font-size:16px;"> It is an npm package runner that can execute any package that you want from the npm registry without even installing that package.</span></div>
+</p>
+<h3 id="wiki-mht-section-title-13">Differences Between NPM and NPX:</h3>
+<p id="wiki-mht-section-content-13"><div itemprop="copy-paste-block">
+<p style="font-size:17px;"> </p>
+
+<figure style="font-size:17px;">
+<table class="copy-paste-table" itemprop="copy-paste-table" style="width:100%;">
+	<colgroup>
+		<col style="width:50%;"></col>
+		<col style="width:50%;"></col>
+	</colgroup>
+	<tbody>
+		<tr>
+			<td><span style="font-size:var(--font-din);"><strong> npm </strong></span></td>
+			<td><span style="font-size:var(--font-din);"><strong>npx</strong></span></td>
+		</tr>
+		<tr>
+			<td>If you wish to run package through npm then you have to specify that package in your package.json and installed it locally.</td>
+			<td>A package can be executable without installing the package, it is an npm package runner so if any packages that aren’t already installed it will installed automatically.</td>
+		</tr>
+		<tr>
+			<td>To use create-react-app in npm the commands are npm install create-react-app then create-react-app myApp(Installation required).</td>
+			<td>But in npx you can use that without installing like npx create-react-app myApp, this command is required in every app’s life cycle only once.</td>
+		</tr>
+		<tr>
+			<td>Npm is a tool that use to install packages.</td>
+			<td> Npx is a tool that use to execute packages.</td>
+		</tr>
+		<tr>
+			<td>
+			<div>Packages used by npm are installed globally you have to care about pollution for the long term.</div>
+
+			<div> </div>
+			</td>
+			<td>
+			<div> Packages used by npx are not installed globally so you have to carefree for the pollution for the long term.</div>
+
+			<div> </div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</figure>
+</div>
+</p>
+<h3 id="wiki-mht-section-title-16">Reference for NPM vs NPX:</h3>
+<p id="wiki-mht-section-content-16"><div itemprop="copy-paste-block"><a href="https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/" rel="noreferrer noopener" target="_blank" title="https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/">https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/</a></div>
+
+<div itemprop="copy-paste-block"><a href="https://nodejs.dev/learn/the-npx-nodejs-package-runner" rel="noreferrer noopener" target="_blank" title="https://nodejs.dev/learn/the-npx-nodejs-package-runner">https://nodejs.dev/learn/the-npx-nodejs-package-runner</a></div>
+</p>
+<h3 id="wiki-mht-section-title-14">React-Application Creation and Studying Folder Structure:</h3>
+<p id="wiki-mht-section-content-14"></p>
+<h3 id="wiki-mht-section-title-17">JSX:</h3>
+<p id="wiki-mht-section-content-17"><div>JSX stands for JavaScript XML.</div>
+
+<div itemprop="copy-paste-block">Ex:
+<pre style="color:#f0f2f4;font-size:14px;">
+<code style="font-size:1em;"><span style="color:#b197cb;">const</span> element <span style="color:#f0f2f4;">=</span> <span style="color:#deb7ca;"><span style="color:#deb7ca;"><span style="color:#64c6ca;">&lt;</span>h1</span><span style="color:#64c6ca;">&gt;</span></span><span>Hello, world!</span><span style="color:#deb7ca;"><span style="color:#deb7ca;"><span style="color:#64c6ca;">&lt;/</span>h1</span><span style="color:#64c6ca;">&gt;</span></span><span style="color:#64c6ca;">;</span> It is a JSX.</code></pre>
+</div>
+
+<div>JSX produces React &quot;elements&quot;.</div>
+
+<div> </div>
+</p>
+<h3 id="wiki-mht-section-title-12">Components</h3>
+<p id="wiki-mht-section-content-12"><div>Basically There are Two types of components:</div>
+</p>
+</body></html>

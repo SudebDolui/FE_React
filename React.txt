@@ -1,0 +1,402 @@
+
+
+This page is automatically updated from the Wiki in Microsoft Teams - any changes 
+made here will be overwritten. To edit this page, open it in Microsoft Teams.
+REACT Practise by SVVS
+Resources:
+*	https://reactjs.org/ - Official Webiste
+*	https://www.tutorialspoint.com/reactjs/index.htm - Tutorial point
+*	https://www.w3schools.com/REACT/DEFAULT.ASP - w3schools
+*	https://www.geeksforgeeks.org/reactjs-tutorials/?ref=se - Geeks for Geeks
+*	https://www.javatpoint.com/reactjs-tutorial - JavaT Point
+Videos:
+*	https://www.youtube.com/watch?v=rf8i6lCuk - Acade mind
+*	https://www.youtube.com/playlist?list=u0W_9lII9agx66oZnT6IyhcMIbUMNMdt - Code With 
+Harry
+*	https://www.youtube.com/playlist?list=C3y8-rFHvwgg3vaYJgHGnModB54rxOk3 - Code 
+Evolution
+ 
+Syllabus:
+                                               React Js                            
+1. Introduction to ReactJS
+1.1
+Library vs 
+Framework
+1.2
+What is 
+React JS
+1.3
+Why we 
+required 
+React JS
+ 
+2. React Components
+2.1
+Class 
+Component
+2.2
+Functional 
+Component
+2.3
+React 
+Component 
+with JSX
+ 
+3. State and Props
+3.1
+What is 
+State ?
+3.2
+What is 
+setState 
+and How 
+setState is 
+going to 
+work
+3.3
+What is 
+Props
+3.4
+Usage of 
+state and 
+Props in 
+React 
+Component
+ 
+4. Forms
+4.1
+Creating 
+Forms
+4.2
+Handling 
+the Event 
+in React
+4.3
+Validations
+ 
+5. Axios
+5.1
+Introduction 
+to 
+get().post() 
+methods
+5.2
+How to use 
+axios in the 
+React JS
+5.3
+How to 
+Handle 
+promise
+5.4
+How to 
+fetch data 
+from server 
+using axios
+5.5
+How to 
+create table 
+and cards 
+dynamically 
+using map
+5.6
+Dynamically 
+Rendering 
+Data in the 
+view 
+ 
+6. Conditional Rendering
+6.1
+If with 
+Logical && 
+Operator
+6.2
+If-Else with 
+Conditional 
+Operator
+6.3
+Preventing 
+Component 
+from 
+Rendering
+ 
+7. Lists and Keys
+7.1
+Rendering 
+Multiple 
+Components
+7.2
+Embedding 
+map() in JSX
+7.3
+Keys Must 
+Only Be 
+Unique 
+Among 
+Siblings
+ 
+8. Life Cycle Methods
+8.1
+What 
+are the 
+Life 
+Cycle 
+Methods
+8.2
+Phases 
+of Life 
+Cycle 
+Methods
+8.3
+Usages 
+and 
+Purpose 
+of Life 
+Cycle 
+Methods
+ 
+9. React Routing
+9.1
+How to 
+install react-
+router-dom
+9.2
+How to use 
+Components 
+from react-
+router-dom 
+library
+9.3
+How to 
+implement 
+Routing in 
+React 
+application
+ 
+10. Code-Splitting
+10.1
+What is 
+import() 
+and How 
+to 
+implement 
+it
+10.2
+React.lazy
+10.3
+Error 
+boundaries
+10.4
+Route-
+based 
+code 
+splitting
+ 
+11. Components Communication
+11.1
+How to 
+pass data 
+from 
+Parent 
+Component 
+to Child 
+Component
+11.2
+How to 
+pass data 
+from  Child 
+Component 
+to Parent 
+Component
+ 
+12. Context API
+12.1
+When to Use 
+Context
+12.2
+Before You Use 
+Context
+12.3
+React.createContext
+12.4
+Context.Provider
+12.5
+Context.Consumer
+ 
+13. Higher-Order Components
+13.1
+What is HOC
+13.2
+How to 
+immplement 
+Hoc
+13.3
+How pass 
+dynamic 
+data to HOC 
+Components
+ 
+14. Integration with Different Libararies
+14.1
+Bootstrap
+14.2
+Jquery
+14.3
+Material 
+UI
+ 
+15. Redux with React
+15.1
+What is 
+Redux and 
+Why we 
+required 
+Redux
+15.2
+Redux Flow
+15.3
+How to 
+implement 
+Redux in 
+react
+15.4
+Redux logger
+15.5
+Redux thunk 
+(MiddleWare)
+15.6
+Redux Saga
+15.7
+React+Redux 
+(Client) + 
+Fectching 
+Data From 
+External API
+ 
+16. React Hooks with Examples
+16.1
+useState() 
+Hook
+16.2
+useEffect() 
+Hook
+16.3
+useRef() 
+Hook
+16.4
+useContext() 
+Hook
+16.5
+useReducer() 
+Hook
+16.6
+useMemo() 
+Hook
+16.7
+useCallback() 
+Hook
+ 
+17. How to fetch data from server using React Hooks
+18. Redux with React Hooks
+History:
+1.	It was created by Jordan walke.
+2.	It was introduced by Facebook Team.
+3.	It was released in May 2013.
+4.	It's initial version was 0.3.0.
+About:
+*	It is also known as Fax JS.
+*	It is a simple, feature rich, component based JavaScript UI Library.
+*	It is used to develop small applications as well as big and complex applications.
+*	It's all about building modern, reactive user interfaces for the web.
+*	It is declarative, component-focused approach
+Features:
+The salient features of React library are:
+*	Solid base architecture
+*	Extensible architecture
+*	Component based library
+*	JSX based design architecture
+*	Declarative UI library
+*	Single page application(SPA)
+*	Reusable UI component
+Benefits
+Few benefits of using React library are as follows:
+*	Easy to learn
+*	Easy to adapt in modern as well as legacy application
+*	Faster way to code a functionality
+*	Availability of large number of ready-made component.
+*	Large and active community.
+Applications:
+Few popular websites powered by React library are listed below:
+*	Facebook, popular social media application.
+*	Instagram, popular photo sharing application.
+*	Netflix, popular media streaming application.
+*	Code Academy, popular online training application.
+*	Reddit, popular content sharing application.
+Difference between Angular, Vue and React:
+*	Angular:
+Complete component based UI framework, packed with features. Uses Typescript. Can be overkill for 
+smaller projects.
+ 
+*	Vue:
+Complete component based UI framework, includes most core features. A bit less popular than React 
+and Angular.
+ 
+*	React:
+Lean and focused component based UI library. Certain features (e.g. routing) are added via community 
+packages. 
+ 
+Installation of Softwares:
+To learn and create Reactjs application, we need to install the following softwares in our PC
+ 
+*	NodeJs
+*	After Installing Node.Js, we need to verify which version of NodeJs is there in our PC.
+*	After verifying the node version using command (node --version) we need to check the npm 
+version also by using the command(node and npm --version) where NPM stands for 
+NodePackageModule.
+*	After successful installation of Nodejs and verifying the versions of both node and npm , we 
+need to install react in our PC by following the command(npm install -g create-react-app) or 
+(npx create-react-app (ur application name))
+*	After building the application we only need to send all the files except node modules folder.
+*	Now after receiving the files we type the command npm i --legacy-peers-deps to download all 
+the node modules file.
+What is NPM?
+NPM stands for Node Package Manager.
+NPM is a package manager.
+It is an online repository for publishing open-source Node.js Projects.
+It is a CLI(Command Line Interface) tool that helps you install those packages and manage their versions 
+and dependencies.
+ 
+What is NPX?
+NPX stands for Node Package Execute.
+It comes with npm.
+After version 5.2.0 npx was included inside npm by default.
+It is a NPM package Runner.
+ It is an npm package runner that can execute any package that you want from the npm registry without 
+even installing that package.
+Differences Between NPM and NPX:
+ 
+ npm  npx If you wish to run package through npm then you have to specify that package in 
+your package.json and installed it locally. A package can be executable without installing the package, it 
+is an npm package runner so if any packages that aren’t already installed it will installed automatically. 
+To use create-react-app in npm the commands are npm install create-react-app then create-react-app 
+myApp(Installation required). But in npx you can use that without installing like npx create-react-app 
+myApp, this command is required in every app’s life cycle only once. Npm is a tool that use to install 
+packages.  Npx is a tool that use to execute packages. 
+Packages used by npm are installed globally you have to care about pollution for the long term.
+ 
+ Packages used by npx are not installed globally so you have to carefree for the pollution for the long 
+term.
+ 
+Reference for NPM vs NPX:
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
+https://nodejs.dev/learn/the-npx-nodejs-package-runner
+React-Application Creation and Studying Folder Structure:
+JSX:
+JSX stands for JavaScript XML.
+Ex: 
+
+const element =span> <h1>Hello, world!</h1>; It is a JSX.
+JSX produces React "elements".
+ 
+Components
+Basically There are Two types of components:

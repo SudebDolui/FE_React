@@ -1,0 +1,4 @@
+Create a context object
+create provider with the provider to consume useContext
+
+create a custom hook that returns the context obj

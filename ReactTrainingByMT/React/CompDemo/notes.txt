@@ -1,0 +1,4 @@
+npm view react version
+npm i -g create-react-app@18
+npx create-react-app comp-demo
+

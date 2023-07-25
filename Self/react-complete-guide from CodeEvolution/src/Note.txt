@@ -1,0 +1,13 @@
+npm install cors --save
+
+const cors = require("cors");
+const corsOptions = {
+  origin: "http://localhost:3000",
+  credentials: true,
+  optionSuccessStatus: 200,
+};
+App.use(cors(corsOptions));
+
+for error:
+
+Access to XMLHttpRequest at 'http://localhost:2022/api/all-stationeries-details' from origin 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.

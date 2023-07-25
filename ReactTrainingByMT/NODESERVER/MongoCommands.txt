@@ -1,0 +1,27 @@
+mongosh
+
+show dbs
+use dbName - to show db or it will create database with the given name
+show collections
+db - to show current db
+
+show collections
+db.collectionname.find() - gives bson
+
+db.dropDatabase() - to drop a database
+
+db.createCollection("students")
+db.getCollectionNames()
+
+db.createCollection("students", {capped: true, size:1000, max: 2})
+
+db.student.insert({"name":"Alice", age: 23, marks:78})
+db.student.insert({"id": 2, "name":"Alice", age: 23, marks:78})
+
+db.student.find()
+db.student.find({age: 25})
+
+
+
+
+

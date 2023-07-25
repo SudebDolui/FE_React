@@ -1,0 +1,85 @@
+npm i http;
+npm i express;
+npm i nodemon;
+npm i mongoose;
+npm i body-parser;
+
+Order of url matters in Node API's.
+So, place dynamic routes or whild card routes at the end.
+
+Testing:
+
+npm i mocha
+npm i should
+npm i sinon
+
+Data:
+
+db.books.insert([
+{
+	"title": "War and Peace",
+	"genre": "Historical Fiction",
+	"author": "Lev Nikolayevich Tolstoy",
+	"read": false
+},
+{
+	"title": "Les Misérables",
+	"genre": "Historical Fiction",
+	"author": "Victor Hugo",
+	"read": false
+},
+{
+	"title": "The Time Machine",
+	"genre": "Science Fiction",
+	"author": "H. G. Wells", 	
+	"read": false
+},
+{
+	"title": "A Journey into the Center of the Earth",
+	"genre": "Science Fiction",
+	"author": "Jules Verne",
+	"read": false
+},
+{
+	"title": "The Dark World",
+	"genre": "Fantasy",
+	"author": "Henry Kuttner",
+	"read": false
+},
+{
+	"title": "The Wind in the Willows",
+	"genre": "Fantasy",
+	"author": "Kenneth Grahame",
+	"read": false
+},
+{
+	"title": "Life On The Mississippi",
+	"genre": "History",
+	"author": "Mark Twain",
+	"read": false
+},
+{
+	"title": "Childhood",
+	"genre": "Biography",
+	"author": "Lev Nikolayevich Tolstoy",
+	"read": false
+}
+])
+
+
+
+const mongoose = require('mongoose');
+
+const { Schema } = mongoose;
+
+const bookModel = new Schema(
+  {
+    title: { type: String },
+    author: { type: String },
+    genre: { type: String },
+    read: { type: Boolean, default: false },
+  }
+);
+
+module.exports = mongoose.model('Book', bookModel);
+

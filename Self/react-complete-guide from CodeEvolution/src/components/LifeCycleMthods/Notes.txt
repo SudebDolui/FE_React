@@ -1,0 +1,7 @@
+Note: Unmounting Phase Method
+componentWillUnmount()
+
+Note: Error Handling Phase Methods
+static getDerivedStateFromError(error)
+componentDidCatch(error, info)
+

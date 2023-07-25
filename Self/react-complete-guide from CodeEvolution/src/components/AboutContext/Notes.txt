@@ -1,0 +1,7 @@
+Definition: Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+
+Steps to do Context:
+
+1.) Create the Context.
+2.) Provides a Context Value.
+3.) Consume the Context Value.

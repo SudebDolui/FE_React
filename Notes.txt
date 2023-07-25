@@ -1,0 +1,22 @@
+-----------> REACT <-----------
+
+What Is React?
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
+It is a client side JavaScript library
+It's all about building modern, reactive user interfaces for the web
+It is declarative, component-focused approach
+
+Angular:
+Complete component based UI framework, packed with features. Uses Typescript. Can be overkill for smaller projects.
+Vue:
+Complete component based UI framework, includes most core features. A bit less popular than React and Angular.
+React:
+Lean and focused component based UI library. Certain features (e.g. routing) are added via community packages.
+
+React makes building complex, interactive and reactive user interfaces simpler
+
+React is all about "components"
+
+Because all user interfaces in the end are made up of components

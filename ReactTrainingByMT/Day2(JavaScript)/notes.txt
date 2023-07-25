@@ -1,0 +1,39 @@
+To prevent an object from being modified
+freeze, seal and prevent Extensions
+
+when an object is frozen it is not extendable.
+
+seal will allow you to modify.
+
+isFrozen, isSealed, isExtensible
+
+To Check 2 objects are same:
+sol: Object.is() is used to check if two values are the same.
+
+== this will cause coersion
+=== strict equality
+
+Object Destructing:
+
+If I want to extract the data from array or object and turn them in to distinct values.
+
+Iterating through Objects:
+
+for in 
+for of
+
+symbol.iterator
+
+
+Array, Set and Map:
+
+
+
+Manipulating Array:
+
+    - Push and Pop => From the end.
+    - Shift and Unshift => From the Beginning.
+    - Splice => Based on position, addition and removal.
+    - Slice => Return a shallow copy of the array based on the range.
+
+    

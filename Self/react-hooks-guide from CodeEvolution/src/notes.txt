@@ -1,0 +1,121 @@
+Hooks are a new feature addition inREact version 16.8
+They allow you to use React features without having to write a class.
+Avoid the whole confusion with 'This' keyword
+Allow you to reuse stateful logic
+Organise the logic inside a component into reusable isolated units.
+Hooks can't be used inside a class component.
+
+Rules of Hooks:-
+
+1) -> "Only Call Hooks at the Top Level"
+       Don't call Hooks inside loops, conditions, or nested functions.
+
+2) -> "Only Call Hooks from React Functions"
+       Call them from within React functional components and not just any regular JavaScript function.
+
+About useState:-
+
+1.) The useState hook lets you add state to functional components.
+2.) In classes, the state is always an object.
+3.) With the useState hook, the state doesn't have to be an object.
+4.) The useState hook returns an array with 2 elements.
+5.) The first element is the current value of the state, and the second element is a state setter function.
+6.) New state value depends on the previous state? You can pass a function to the setter function.
+7.) When dealing with objects or arrays, always make sure to spread your state variable and then call the setter function.
+
+About useEffect:-
+
+1.) The Effect Hook lets you perform side effects in functional components.
+2.) It is a close replacement for componentDidMount, componentDidUpdate and componentWillUnmount.
+3.) It is rendered after every render of component.
+4.) Always use inside a functional component.
+5.) If we pass anything as a second parameter it works as a conditional check with prev value of the specified variable.
+6.) If we pass a return function inside it. It acts as a component unmounter, remover or etc. It helps in stopping the component.
+
+About Context:- 
+
+Context provides a way to pass data through the component tree without having to pass props down maunally at every level.
+
+       AppComponent(UserName) -> We need to pass it down till F component using Context
+              |
+       _______________
+       |      |      |
+       A      B      C
+       |      |      |
+              D      E
+              |      |
+                     F
+                     |
+
+
+Hooks Till now and their uses.
+
+useState -> State
+useEffect -> Side effects (Component mount, change, unmount, etc)
+useContext -> Context API
+useReducer -> Reducers
+
+About useReducer:-
+
+useReducer is a hook that is used for state management.
+useReducer(reducer, initialState)
+useReducer(currentState, action)
+
+1.) It is an alternative to useState.
+2.) What's the difference? Ans) :-> useState is built using useReducer
+
+reduce vs useReducer 
+
+ --------------------------------------------------------------------------------------------
+|      reduce in JavaScript                      |      useReducer in React                  |
+ --------------------------------------------------------------------------------------------
+| array.reduce(reducer, initialValue)            | useReducer(reducer, initialState)         |
+|                                                | [newState, dispatch]                      |
+| singleValue = reducer(accumulator, itemValue)  | newState = reducer(currentState, action)  |
+|                                                | [newState, dispatch]                      |
+| reduce method returns a cingle value           | useReducer returns a pair of values.      |
+|                                                | [newState, dispatch]                      |
+|                                                |                                           |
+ --------------------------------------------------------------------------------------------
+
+useReducer with useContext:-
+
+useReducer - Local state management.
+
+share state between components - Global State Management
+
+useReducer + useContext
+
+3.) When to useReducer vs useState? 
+Ans) :-> 
+
+ --------------------------------------------------------------------------------------------------------
+|             Scenario             |             useState             |             useReducer           | 
+ --------------------------------------------------------------------------------------------------------
+| Type of state                    | Number, String, Boolean          | Object or Array                  |
+|                                  |                                  |                                  |
+| Number of State Transitions      | One or Two                       | Too Many                         |
+|                                  |                                  |                                  |
+| Related State Transitions?       | No                               | Yes                              |
+|                                  |                                  |                                  |
+| Business Logic                   | No Business Logic                | Complex Business Logic           |
+|                                  |                                  |                                  |
+| Local vs Gobal                   | Local                            | Global                           |
+|                                  |                                  |                                  |
+ --------------------------------------------------------------------------------------------------------
+
+About useCallback:-
+
+1.) What? Ans : ) useCallback is a hook that will return a memorized version of the callback function that only 
+changes if one of the dependencies has changed.
+
+2.) Why? Ans: ) It is useful when passing callbacks to optimised child components that rely on reference equality 
+to prevent unnecessary renders.
+
+Not Explained - useImperative Handle, useLayout Effect and useDebug value.
+
+About Custom Hooks:-
+
+We use Custom hooks to create our own hook which does function like a hook. It is similar to HOC.
+
+IMP: Make Sure to use the word use it is a convention in react for custom Hooks.
