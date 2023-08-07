@@ -1,0 +1,19 @@
+{
+  "cart": [
+    {
+      "id": 1
+    }
+  ],
+  "test": {
+    "items": [
+      {
+        "id": "p1",
+        "price": 6,
+        "quantity": 1,
+        "totalPrice": 6,
+        "name": "My First Book"
+      }
+    ],
+    "totalQuantity": 1
+  }
+}
